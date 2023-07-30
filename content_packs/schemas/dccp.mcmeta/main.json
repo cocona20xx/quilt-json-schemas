@@ -1,0 +1,28 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "title": "QSL Content Pack Root File mcmeta (version-agonistic)",
+    "type": "object",
+    "properties": {
+        "schema_version": {
+            "enum": [1],
+            "default": 1
+        }
+    },
+    "oneOf": [
+        {
+            "allOf": [
+                {
+                    "properties": {
+                        "schema_version": {
+                            "const": 1
+                        }
+                    }
+                },
+                {
+                    "$ref": ""
+                }
+            ]
+        }
+    ],
+    "required": ["schema_version"]
+}
