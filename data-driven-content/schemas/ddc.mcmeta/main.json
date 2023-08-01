@@ -1,6 +1,7 @@
 {
     "$schema": "https://json-schema.org/draft-07/schema",
-    "title": "QSL Content Pack Root File mcmeta (version-agonistic)",
+    "$id": "https://raw.githubusercontent.com/cocona20xx/quilt-json-schemas/data-driven-content-api/data-driven-content/schemas/ddc.mcmeta/main.json",
+    "title": "QSL DDC API mcmeta (version-agonistic)",
     "type": "object",
     "properties": {
         "schema_version": {
