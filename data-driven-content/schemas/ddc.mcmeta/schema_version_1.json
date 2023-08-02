@@ -1,3 +1,5 @@
 {
-    "$schema": "https://json-schema.org/draft-07/schema"
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "$id": "https://raw.githubusercontent.com/cocona20xx/quilt-json-schemas/data-driven-content-api/data-driven-content/schemas/ddc.mcmeta/schema_version_1.json",
+    "title": "QSL DDC API mcmeta v1"
 }

@@ -20,7 +20,7 @@
                     }
                 },
                 {
-                    "$ref": ""
+                    "$ref": "https://raw.githubusercontent.com/cocona20xx/quilt-json-schemas/data-driven-content-api/data-driven-content/schemas/ddc.mcmeta/schema_version_1.json"
                 }
             ]
         }
