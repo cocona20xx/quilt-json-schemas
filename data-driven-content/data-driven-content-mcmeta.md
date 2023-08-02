@@ -27,7 +27,7 @@ The acronym '*DDC*' stands for Data-Driven Content.
 * [content_deserializers](#the-content_deserializers-field) - Information about Content Deserializers pertaining to this Static Pack 
     * [depends](#the-depends-field) — The Content Deserializers depended on by this Static Pack
     * [incompatible](#the-incompatible-field) — Content Deserializers this Static Pack is incompatible with
-* [content_owners] — Information about Content Owners pertaining to this Static Pack
+* [content_owners](#the-content_owners-field) — Information about Content Owners pertaining to this Static Pack
     * [depends](#the-depends-field-1) - Mods or other Static Packs this Static Pack depends on for reasons *other* than CDs, such as items, blocks, or entities added by said mods or packs
     * [breaks](#the-breaks-field) — Mods or other Static Packs this Static Pack is incompatible with for reasons *other* than CDs
 
